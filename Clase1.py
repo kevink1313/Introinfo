@@ -126,6 +126,6 @@ print(Intenso)
 print("------------------------")
 print("Ejercicio_1")
 
-Celular = 89728245
+Celular = "xxxxxxxx"
 
-print(f"https://wa.me/+506{Celular} ")
+print(f"https://wa.me/506{Celular}")
