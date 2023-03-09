@@ -122,3 +122,10 @@ print(Activo)
 Intenso = Intensidad == "Alta"
 print("El usuario es intenso?")
 print(Intenso)
+
+print("------------------------")
+print("Ejercicio_1")
+
+Celular = 89728245
+
+print(f"https://wa.me/+506{Celular} ")
