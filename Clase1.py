@@ -129,3 +129,59 @@ print("Ejercicio_1")
 Celular = "xxxxxxxx"
 
 print(f"https://wa.me/506{Celular}")
+
+print("------------------------")
+
+#1
+
+print("Hola mundo")
+
+#2
+print("------------------------")
+
+Gesto = "Hola mundo"
+print(Gesto)
+
+#3
+
+Usuario = "Kevin Jiménez"
+
+print(f"!Hola {Usuario}¡")
+
+#4
+
+print("??????")
+
+#5
+
+
+Horas_trabajadas = 48
+
+coste_por_hora = 8000
+print("cuantas horas ha trabajado?")
+print(Horas_trabajadas)
+
+print(f"Su paga sería de {Horas_trabajadas * coste_por_hora}")
+
+#6
+
+peso = int(input("Por favor ingrese su peso en kg: "))
+estatura = float(input("Por favor ingrese su estatura en metros: "))
+IMC = round(peso / (estatura ** 2), 2)
+
+print(f"Tu índice de masa corporal es {IMC}")
+
+#7
+
+Numi_1 = 60
+numi_2 = 10
+cociente = Numero_1 / numi_2
+Resto = Numi_1 % numi_2
+
+print(f"n divido entre m es igual a {cociente} y su resto sería {Resto}")
+
+
+
+
+
+
