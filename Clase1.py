@@ -180,7 +180,29 @@ Resto = Numi_1 % numi_2
 
 print(f"n divido entre m es igual a {cociente} y su resto sería {Resto}")
 
+print("------------------------")
+#1
 
+nombre_completo = input("Ingrese su nombre completo: ")
+
+print(nombre_completo.lower())
+print(nombre_completo.upper())
+print(nombre_completo.title())
+
+print("------------------------")
+#2
+nombre = input("Ingrese su nombre: ")
+numero = int(input("Ingrese un número entero: "))
+
+for i in range(numero):
+    print(nombre)
+
+print("------------------------")
+
+#3
+nombre = input("Ingrese su nombre: ")
+
+print(nombre.upper(), "tiene", len(nombre), "letras")
 
 
 
