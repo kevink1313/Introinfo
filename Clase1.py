@@ -201,7 +201,7 @@ print("------------------------")
 #3
 nombre = input("Ingrese su nombre: ")
 
-print(nombre.upper(), "tiene", len(nombre), "letras")
+print(nombre.upper(), "tiene ", len(nombre), "letras")
 
 
 
